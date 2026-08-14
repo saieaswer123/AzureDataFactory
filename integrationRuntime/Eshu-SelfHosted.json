@@ -1,0 +1,6 @@
+{
+	"name": "Eshu-SelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
