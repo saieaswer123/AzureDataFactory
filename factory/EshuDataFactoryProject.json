@@ -1,0 +1,15 @@
+{
+	"name": "EshuDataFactoryProject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4167c020-9f2d-4a65-acd0-38f15c8074d1",
+		"tenantId": "3b550f0e-f974-4a74-b956-c1284b029bdc"
+	}
+}
